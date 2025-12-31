@@ -760,7 +760,7 @@
     "education": "Graduate"
   },
 
-    {
+  {
     "name": "みかこ",
     "mobile": "",
     "age": "29",
@@ -776,7 +776,7 @@
     "education": "Graduate"
   },
 
-    {
+  {
     "name": "小春",
     "mobile": "",
     "age": "34",
@@ -806,7 +806,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-   {
+  {
     "name": "ひより",
     "mobile": "",
     "age": "28",
@@ -821,7 +821,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-   {
+  {
     "name": "めぐみ",
     "mobile": "",
     "age": "28",
@@ -836,7 +836,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-   {
+  {
     "name": "サツキ",
     "mobile": "",
     "age": "29",
@@ -851,7 +851,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-   {
+  {
     "name": "コハナ",
     "mobile": "",
     "age": "31",
@@ -881,7 +881,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-   {
+  {
     "name": "涼介",
     "mobile": "",
     "age": "27",
@@ -896,7 +896,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-     {
+  {
     "name": "タケル",
     "mobile": "",
     "age": "29",
@@ -911,7 +911,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-     {
+  {
     "name": "正一",
     "mobile": "",
     "age": "31",
@@ -926,7 +926,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-      {
+  {
     "name": "めぐみ",
     "mobile": "",
     "age": "28",
@@ -941,7 +941,7 @@
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
   },
-     {
+  {
     "name": "秋葉原",
     "mobile": "",
     "age": "25",
@@ -955,5 +955,5 @@
     "occupation": "Sociology",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
-  },
+  }
 ]
