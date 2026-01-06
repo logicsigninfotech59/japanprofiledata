@@ -10,7 +10,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Tokyo",
-    "height": "172",
+    "height": "58",
     "occupation": "Software Engineer",
     "selfIntroduction": "I enjoy technology and quiet weekends.",
     "education": "Graduate"
@@ -25,7 +25,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Osaka",
-    "height": "160",
+    "height": "60",
     "occupation": "Marketing Assistant",
     "selfIntroduction": "Positive and social.",
     "education": "Graduate"
@@ -40,7 +40,7 @@
     "workstyle": "Remote",
     "livingsituation": "Split time between places",
     "location": "Yokohama",
-    "height": "178",
+    "height": "61",
     "occupation": "Consultant",
     "selfIntroduction": "Balanced work and life.",
     "education": "Graduate"
@@ -55,7 +55,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Nagoya",
-    "height": "158",
+    "height": "65",
     "occupation": "Interior Designer",
     "selfIntroduction": "Creative and calm.",
     "education": "Graduate"
@@ -70,7 +70,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Kyoto",
-    "height": "170",
+    "height": "60.5",
     "occupation": "University Student",
     "selfIntroduction": "Enjoy learning economics.",
     "education": "Designer"
@@ -85,7 +85,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live with spouse",
     "location": "Kobe",
-    "height": "162",
+    "height": "63",
     "occupation": "HR Manager",
     "selfIntroduction": "Career and family focused.",
     "education": "Software Engineer"
@@ -100,7 +100,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Fukuoka",
-    "height": "175",
+    "height": "64",
     "occupation": "Operations Manager",
     "selfIntroduction": "Enjoy routine and balance.",
     "education": "Graduate"
@@ -115,7 +115,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Sapporo",
-    "height": "159",
+    "height": "57",
     "occupation": "Content Writer",
     "selfIntroduction": "Love writing and travel.",
     "education": "Graduate"
@@ -130,7 +130,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Sendai",
-    "height": "173",
+    "height": "63",
     "occupation": "Civil Engineer",
     "selfIntroduction": "Reliable and thoughtful.",
     "education": "Graduate"
@@ -145,7 +145,7 @@
     "workstyle": "Remote",
     "livingsituation": "Student housing",
     "location": "Chiba",
-    "height": "157",
+    "height": "60",
     "occupation": "Design Student",
     "selfIntroduction": "Learning visual design.",
     "education": "High School"
@@ -160,7 +160,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Hiroshima",
-    "height": "176",
+    "height": "64",
     "occupation": "Factory Supervisor",
     "selfIntroduction": "Family first mindset.",
     "education": "High School"
@@ -175,7 +175,7 @@
     "workstyle": "Remote",
     "livingsituation": "Split time between places",
     "location": "Kamakura",
-    "height": "161",
+    "height": "61.7",
     "occupation": "Translator",
     "selfIntroduction": "Love languages.",
     "education": "Graduate"
@@ -190,7 +190,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Kawasaki",
-    "height": "174",
+    "height": "64.2",
     "occupation": "Sales Executive",
     "selfIntroduction": "Driven and social.",
     "education": "Graduate"
@@ -205,7 +205,7 @@
     "workstyle": "Remote",
     "livingsituation": "Student housing",
     "location": "Nara",
-    "height": "155",
+    "height": "58.9",
     "occupation": "Literature Student",
     "selfIntroduction": "Book lover.",
     "education": "High School"
@@ -220,7 +220,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Niigata",
-    "height": "177",
+    "height": "61.3",
     "occupation": "Logistics Planner",
     "selfIntroduction": "Calm and focused.",
     "education": "Graduate"
@@ -235,7 +235,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Tokyo",
-    "height": "171",
+    "height": "62.6",
     "occupation": "UI Designer",
     "selfIntroduction": "Design enthusiast.",
     "education": "Graduate"
@@ -250,7 +250,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Osaka",
-    "height": "159",
+    "height": "58.6",
     "occupation": "PR Assistant",
     "selfIntroduction": "Energetic communicator.",
     "education": "Graduate"
@@ -265,7 +265,7 @@
     "workstyle": "Remote",
     "livingsituation": "Split time between places",
     "location": "Hakone",
-    "height": "174",
+    "height": "60",
     "occupation": "Tourism Consultant",
     "selfIntroduction": "Love regional travel.",
     "education": "Graduate"
@@ -295,7 +295,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Urawa",
-    "height": "173",
+    "height": "62",
     "occupation": "Video Editor",
     "selfIntroduction": "Creative editor.",
     "education": "Graduate"
@@ -310,7 +310,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Toyama",
-    "height": "158",
+    "height": "61.4",
     "occupation": "Nurse",
     "selfIntroduction": "Caring professional.",
     "education": "Graduate"
@@ -325,7 +325,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Kanazawa",
-    "height": "176",
+    "height": "59",
     "occupation": "Real Estate Manager",
     "selfIntroduction": "Enjoy architecture.",
     "education": "Graduate"
@@ -340,7 +340,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Matsuyama",
-    "height": "156",
+    "height": "59.11",
     "occupation": "SNS Manager",
     "selfIntroduction": "Digital trends fan.",
     "education": "Graduate"
@@ -355,7 +355,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Kumamoto",
-    "height": "172",
+    "height": "62.1",
     "occupation": "Construction Planner",
     "selfIntroduction": "Hands-on thinker.",
     "education": "Graduate"
@@ -370,7 +370,7 @@
     "workstyle": "Remote",
     "livingsituation": "Student housing",
     "location": "Akita",
-    "height": "154",
+    "height": "63.5",
     "occupation": "Sociology Student",
     "selfIntroduction": "Curious learner.",
     "education": "High School"
@@ -385,7 +385,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Otsu",
-    "height": "178",
+    "height": "57.6",
     "occupation": "Supply Chain Manager",
     "selfIntroduction": "Dependable leader.",
     "education": "Graduate"
@@ -400,7 +400,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Kofu",
-    "height": "160",
+    "height": "59.7",
     "occupation": "Online Tutor",
     "selfIntroduction": "Enjoy teaching.",
     "education": "Graduate"
@@ -415,7 +415,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Takamatsu",
-    "height": "175",
+    "height": "58.4",
     "occupation": "Port Operations Lead",
     "selfIntroduction": "Logistics expert.",
     "education": "High School"
@@ -430,7 +430,7 @@
     "workstyle": "Remote",
     "livingsituation": "Split time between places",
     "location": "Izu",
-    "height": "159",
+    "height": "62.7",
     "occupation": "Yoga Instructor",
     "selfIntroduction": "Health focused.",
     "education": "Graduate"
@@ -445,7 +445,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Kurashiki",
-    "height": "174",
+    "height": "60.8",
     "occupation": "Museum Coordinator",
     "selfIntroduction": "Culture lover.",
     "education": "Graduate"
@@ -460,7 +460,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Tsukuba",
-    "height": "158",
+    "height": "61.7",
     "occupation": "Research Assistant",
     "selfIntroduction": "Science oriented.",
     "education": "Graduate"
@@ -475,7 +475,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Ube",
-    "height": "176",
+    "height": "62.8",
     "occupation": "Plant Manager",
     "selfIntroduction": "Experienced leader.",
     "education": "High School"
@@ -490,7 +490,7 @@
     "workstyle": "Remote",
     "livingsituation": "Student housing",
     "location": "Beppu",
-    "height": "155",
+    "height": "59",
     "occupation": "Tourism Student",
     "selfIntroduction": "Hospitality focused.",
     "education": "High School"
@@ -505,7 +505,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Atami",
-    "height": "173",
+    "height": "56.9",
     "occupation": "Data Analyst",
     "selfIntroduction": "Data driven.",
     "education": "Graduate"
@@ -520,7 +520,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Shizuoka",
-    "height": "161",
+    "height": "59.4",
     "occupation": "Quality Controller",
     "selfIntroduction": "Precision matters.",
     "education": "Graduate"
@@ -535,7 +535,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Kashiwa",
-    "height": "172",
+    "height": "64",
     "occupation": "Retail Planner",
     "selfIntroduction": "Enjoy analytics.",
     "education": "Graduate"
@@ -550,7 +550,7 @@
     "workstyle": "Remote",
     "livingsituation": "Split time between places",
     "location": "Hachioji",
-    "height": "160",
+    "height": "63.1",
     "occupation": "Copywriter",
     "selfIntroduction": "Love storytelling.",
     "education": "Graduate"
@@ -565,7 +565,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Saga",
-    "height": "175",
+    "height": "60.8",
     "occupation": "Public Administrator",
     "selfIntroduction": "Community driven.",
     "education": "Graduate"
@@ -580,7 +580,7 @@
     "workstyle": "Remote",
     "livingsituation": "Student housing",
     "location": "Fukui",
-    "height": "156",
+    "height": "62.7",
     "occupation": "Media Student",
     "selfIntroduction": "Creative learner.",
     "education": "High School"
@@ -595,7 +595,7 @@
     "workstyle": "Office",
     "livingsituation": "Live alone",
     "location": "Mito",
-    "height": "173",
+    "height": "64.1",
     "occupation": "Procurement Officer",
     "selfIntroduction": "Organized thinker.",
     "education": "Graduate"
@@ -610,7 +610,7 @@
     "workstyle": "Remote",
     "livingsituation": "Live alone",
     "location": "Tachikawa",
-    "height": "159",
+    "height": "60.2",
     "occupation": "E-learning Coordinator",
     "selfIntroduction": "Love online education.",
     "education": "Graduate"
@@ -625,7 +625,7 @@
     "workstyle": "Office",
     "livingsituation": "Live with spouse",
     "location": "Matsumoto",
-    "height": "177",
+    "height": "59.6",
     "occupation": "Facilities Manager",
     "selfIntroduction": "Reliable and steady.",
     "education": "Graduate"
@@ -640,7 +640,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "58.4",
     "occupation": "Office Clerk",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -656,7 +656,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "58.3",
     "occupation": "Office Clerk",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -672,7 +672,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "148",
+    "height": "61",
     "occupation": "Design enthusiast",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -688,7 +688,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "151",
+    "height": "63.7",
     "occupation": "PR Assistant",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -705,7 +705,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "145",
+    "height": "60.5",
     "occupation": "Nurse",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -723,7 +723,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "154",
+    "height": "62.4",
     "occupation": "SNS Manager",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -738,7 +738,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "61.9",
     "occupation": "Port Operations Lead",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -754,7 +754,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "151",
+    "height": "60",
     "occupation": "Yoga Instructor",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -770,7 +770,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "150",
+    "height": "57.8",
     "occupation": "Office Clerk",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -786,7 +786,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "58",
     "occupation": "Tourism Student",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -801,7 +801,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "62",
     "occupation": "Media",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -816,7 +816,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "157",
+    "height": "64.1",
     "occupation": "Public Administrator",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -831,7 +831,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "155",
+    "height": "62.8",
     "occupation": "Facilities Manager",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -846,7 +846,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "152",
+    "height": "61.6",
     "occupation": "Interior Designer",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -861,7 +861,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "149",
+    "height": "64.2",
     "occupation": "HR Manager",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -876,7 +876,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "154",
+    "height": "59",
     "occupation": "Content Writer",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -891,7 +891,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "152",
+    "height": "59.7",
     "occupation": "Office Clerk",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -906,7 +906,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "161",
+    "height": "58.8",
     "occupation": "Translator",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -921,7 +921,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "154",
+    "height": "61",
     "occupation": "UI Designer",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -936,7 +936,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "152",
+    "height": "63",
     "occupation": "Nurse",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
@@ -951,7 +951,7 @@
     "workstyle": "Office",
     "livingsituation": "Student housing",
     "location": "Utsunomiya",
-    "height": "149",
+    "height": "65",
     "occupation": "Sociology",
     "selfIntroduction": "Friendly and polite.",
     "education": "Graduate"
